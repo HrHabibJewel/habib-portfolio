@@ -5,9 +5,9 @@ import { skills } from "../../portfolio";
 import { Fade } from "react-reveal";
 import DataScienceImg from "./DataScienceImg";
 import FullStackImg from "./FullStackImg";
-import CloudInfraImg from "./CloudInfraImg";
-import DesignImg from "./DesignImg";
-import ProjectManagementImg from "./ProjectManagementImg";
+// import CloudInfraImg from "./CloudInfraImg";
+// import DesignImg from "./DesignImg";
+// import ProjectManagementImg from "./ProjectManagementImg";
 
 function GetSkillSvg(props) {
   if (props.fileName === "DataScienceImg")
@@ -16,12 +16,12 @@ function GetSkillSvg(props) {
     return <FullStackImg theme={props.theme} />;
   else if (props.fileName === "CloudInfraImg")
     //return <CloudInfraImg theme={props.theme} />;
-    return <img src={require(`../../assests/images/cloud-services.png`)}/>
+    return <img src={require(`../../assests/images/cloud-services.png`)} alt="cloud-services"/>
   else if (props.fileName === "ProjManagement")
     //return <ProjectManagementImg theme={props.theme} />;
-    return <img src={require(`../../assests/images/project-management-charts-removebg-preview.png`)}/>
+    return <img src={require(`../../assests/images/project-management-charts-removebg-preview.png`)} alt="project-management"/>
   //return <DesignImg theme={props.theme} />;
-  return <img src={require(`../../assests/images/data-engineering.png`)}/>
+  return <img src={require(`../../assests/images/data-engineering.png`)} alt="data-engineering"/>
 }
 
 class SkillSection extends Component {

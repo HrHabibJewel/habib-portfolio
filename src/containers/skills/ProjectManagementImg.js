@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 export default class ProjectManagementImg extends Component {
   render() {
-    const theme = this.props.theme;
+    //const theme = this.props.theme;
     return (
         <svg version="1.1" id="Ñëîé_1" xmlns="http://www.w3.org/2000/svg" 
          x="0px" y="0px"
