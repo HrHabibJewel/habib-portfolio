@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.37f7dbfd.chunk.css",
-    "main.js": "./static/js/main.259b70c1.chunk.js",
-    "main.js.map": "./static/js/main.259b70c1.chunk.js.map",
+    "main.css": "./static/css/main.df4f66db.chunk.css",
+    "main.js": "./static/js/main.ddc61940.chunk.js",
+    "main.js.map": "./static/js/main.ddc61940.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.3792035b.chunk.js": "./static/js/2.3792035b.chunk.js",
-    "static/js/2.3792035b.chunk.js.map": "./static/js/2.3792035b.chunk.js.map",
+    "static/js/2.d79439ba.chunk.js": "./static/js/2.d79439ba.chunk.js",
+    "static/js/2.d79439ba.chunk.js.map": "./static/js/2.d79439ba.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.a2232533f8ed6021ddc3adce8d288cdc.js": "./precache-manifest.a2232533f8ed6021ddc3adce8d288cdc.js",
+    "precache-manifest.fc906f36acbe4e01b6e6e22d5a4fd7a6.js": "./precache-manifest.fc906f36acbe4e01b6e6e22d5a4fd7a6.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.37f7dbfd.chunk.css.map": "./static/css/main.37f7dbfd.chunk.css.map",
+    "static/css/main.df4f66db.chunk.css.map": "./static/css/main.df4f66db.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Iiuc-logo_new.png": "./static/media/Iiuc-logo_new.7b95f20a.png",
     "static/media/Logo_of_Leads_Corporation_Limited.png": "./static/media/Logo_of_Leads_Corporation_Limited.174cb0ee.png",
@@ -63,8 +63,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.3792035b.chunk.js",
-    "static/css/main.37f7dbfd.chunk.css",
-    "static/js/main.259b70c1.chunk.js"
+    "static/js/2.d79439ba.chunk.js",
+    "static/css/main.df4f66db.chunk.css",
+    "static/js/main.ddc61940.chunk.js"
   ]
 }

@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products, cloud solutions and architectures which develop sustainable and scalable social and technical systems to create impact. Love to take ownership of products and have friendly relationship with colleagues.",
   resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
+    "https://drive.google.com/file/d/13jchXStxHBHvmyXU56ZrgZa5P0ytvKFT/view?usp=share_link",
   portfolio_repository: "https://github.com/HrHabibJewel/habib-portfolio",
   githubProfile: "https://github.com/hrhabibjewel",
 };
