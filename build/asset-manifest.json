@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.86ee4117.chunk.css",
-    "main.js": "./static/js/main.fcaba6f4.chunk.js",
-    "main.js.map": "./static/js/main.fcaba6f4.chunk.js.map",
+    "main.css": "./static/css/main.37f7dbfd.chunk.css",
+    "main.js": "./static/js/main.259b70c1.chunk.js",
+    "main.js.map": "./static/js/main.259b70c1.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.64c076a3.chunk.js": "./static/js/2.64c076a3.chunk.js",
-    "static/js/2.64c076a3.chunk.js.map": "./static/js/2.64c076a3.chunk.js.map",
+    "static/js/2.3792035b.chunk.js": "./static/js/2.3792035b.chunk.js",
+    "static/js/2.3792035b.chunk.js.map": "./static/js/2.3792035b.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.5d123e41edd403740db4548bbe26dea8.js": "./precache-manifest.5d123e41edd403740db4548bbe26dea8.js",
+    "precache-manifest.a2232533f8ed6021ddc3adce8d288cdc.js": "./precache-manifest.a2232533f8ed6021ddc3adce8d288cdc.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.86ee4117.chunk.css.map": "./static/css/main.86ee4117.chunk.css.map",
+    "static/css/main.37f7dbfd.chunk.css.map": "./static/css/main.37f7dbfd.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Iiuc-logo_new.png": "./static/media/Iiuc-logo_new.7b95f20a.png",
     "static/media/Logo_of_Leads_Corporation_Limited.png": "./static/media/Logo_of_Leads_Corporation_Limited.174cb0ee.png",
@@ -39,6 +39,8 @@
     "static/media/github_logo.png": "./static/media/github_logo.6eeb2e81.png",
     "static/media/googleAssistant.jpg": "./static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "./static/media/googleAssistant.a6addc3f.svg",
+    "static/media/habib-icon.png": "./static/media/habib-icon.0405ba14.png",
+    "static/media/habib-logo.png": "./static/media/habib-logo.0405ba14.png",
     "static/media/ibm_logo.png": "./static/media/ibm_logo.d3fccbe1.png",
     "static/media/iiitk_logo.png": "./static/media/iiitk_logo.571a8584.png",
     "static/media/intel_logo.jpg": "./static/media/intel_logo.29152cf7.jpg",
@@ -61,8 +63,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.64c076a3.chunk.js",
-    "static/css/main.86ee4117.chunk.css",
-    "static/js/main.fcaba6f4.chunk.js"
+    "static/js/2.3792035b.chunk.js",
+    "static/css/main.37f7dbfd.chunk.css",
+    "static/js/main.259b70c1.chunk.js"
   ]
 }
