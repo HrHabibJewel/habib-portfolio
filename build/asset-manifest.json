@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.df4f66db.chunk.css",
-    "main.js": "./static/js/main.4ddd935e.chunk.js",
-    "main.js.map": "./static/js/main.4ddd935e.chunk.js.map",
+    "main.js": "./static/js/main.9566f387.chunk.js",
+    "main.js.map": "./static/js/main.9566f387.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
     "static/js/2.d79439ba.chunk.js": "./static/js/2.d79439ba.chunk.js",
     "static/js/2.d79439ba.chunk.js.map": "./static/js/2.d79439ba.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.5951dbd2cb0cc19acd5eccedb20eb388.js": "./precache-manifest.5951dbd2cb0cc19acd5eccedb20eb388.js",
+    "precache-manifest.10459a67899673c29e6f2e94ca582803.js": "./precache-manifest.10459a67899673c29e6f2e94ca582803.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.df4f66db.chunk.css.map": "./static/css/main.df4f66db.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
@@ -16,7 +16,7 @@
     "static/media/Logo_of_Leads_Corporation_Limited.png": "./static/media/Logo_of_Leads_Corporation_Limited.174cb0ee.png",
     "static/media/UIU-Logo-250.png": "./static/media/UIU-Logo-250.9418795a.png",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
-    "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.be4f4800.png",
+    "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.0405ba14.png",
     "static/media/animated_logo.svg": "./static/media/animated_logo.dcd6dee2.svg",
     "static/media/bafsc_logo.png": "./static/media/bafsc_logo.a80e9e55.png",
     "static/media/bedata-logo-blue.svg": "./static/media/bedata-logo-blue.0e8f7392.svg",
@@ -65,6 +65,6 @@
     "static/js/runtime-main.fff6ee50.js",
     "static/js/2.d79439ba.chunk.js",
     "static/css/main.df4f66db.chunk.css",
-    "static/js/main.4ddd935e.chunk.js"
+    "static/js/main.9566f387.chunk.js"
   ]
 }
